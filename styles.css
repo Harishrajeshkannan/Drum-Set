@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(25, 50, 94);
+}
+
+h1{
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px rgb(190, 118, 118);
+    color: azure;
+    text-align: center;
+}
+div{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+button{
+    padding: 35px 55px;
+    border-radius: 10px;
+    border:solid 7px rgb(72, 79, 120);
+    margin-right: 20px;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(14, 16, 16);
+    font-family: monospace;
+    background-color: rgb(187, 199, 199);
+}
+#i1{
+    background-image: url(images/crash.png);
+    background-size: contain;
+}
+#i2{
+    background-image: url(images/kick.png);
+    background-size: contain;
+}
+#i3{
+    background-image: url(images/snare.png);
+    background-size: contain;
+}
+#i4{
+    background-image: url(images/tom1.png) ;
+    background-size: contain;
+}
+#i5{
+    background-image: url(images/tom2.png);
+    background-size: contain;
+}
+#i6{
+    background-image: url(images/tom3.png);
+    background-size: contain;
+}
+#i7{
+    background-image: url(images/tom4.png);
+    background-size: contain;
+}
